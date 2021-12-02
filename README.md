@@ -1,5 +1,6 @@
 # Welcome to Our 3D Tetris Game !
-This is a 3D Tetris Game with elaborate figures
+#### This is a 3D Tetris Game with elaborate figures: <br>
+<img src="Demo/demo1.png" width="50%" align="middle"/>
 
 ## Getting Started
 1. Download the repo
@@ -20,14 +21,14 @@ This is a 3D Tetris Game with elaborate figures
 Click icon on the upper left side can **```pause```** the game.
 
 ## Here are some demo samples:
-#### This is our teaser figures
+#### This is our teaser figures:
 
 <p float="left">
-  <img src="Demo/demo1.png" width="40%" align="middle"/>
+  <img src="Demo/demo5.png" width="40%" align="middle"/>
   <img src="Demo/demo6.png" width="40%" align="middle"/>
 </p>
 
-#### We have daylight and night backgound with sun and moon moving across our background
+#### We have daylight and night backgound with sun and moon moving across our background:
 
 <p float="left">
   <img src="Demo/sun_shadow.png" width="40%" align="middle"/>
