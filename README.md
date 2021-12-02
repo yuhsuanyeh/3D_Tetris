@@ -8,8 +8,8 @@
 ## How to play?
 
 ### Mouse:
-1. Click left and right hands side icon can change background and music. <br>
-2. Click "Tap to start" to start the game. <br>
+1. Click left and right hands side icon can change **```background```** and **```music```**. <br>
+2. Click "Tap to start" to **```start the game```**. <br>
 
 ### Keyboard:
   **```C / V```** : Rotate the base **clockwise** / **counterclockwise** <br>
@@ -21,21 +21,21 @@
 Click icon on the upper left side can **```pause```** the game.
 
 ## Here are some demo samples:
-#### This is our teaser figures:
+#### These are our teaser figures:
 
 <p float="left">
   <img src="Demo/demo5.png" width="40%" align="middle"/>
   <img src="Demo/demo6.png" width="40%" align="middle"/>
 </p>
 
-#### We have daylight and night backgound with sun and moon moving across our background:
+#### We have daylight and night scenes with sun and moon moving across our background:
 
 <p float="left">
   <img src="Demo/sun_shadow.png" width="40%" align="middle"/>
   <img src="Demo/moon_shadow.png" width="40%" align="middle"/>
 </p>
 
-#### Click icon on the upper left can pause the game. 
+#### Click the icon on the upper left can pause the game. 
 <p float="left">
   <img src="Demo/pause.png" width="40%" align="middle"/>
   <img src="Demo/deadline.png" width="40%" align="middle"/>
